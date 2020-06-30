@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
+
+.score{
+    margin: auto;
+    padding-bottom: 50px;
+}
+
